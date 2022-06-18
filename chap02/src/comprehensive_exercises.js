@@ -59,6 +59,7 @@ function clickFunc(ev, gl, canvas, a_Position, u_FragColor) {
     y = ((canvas.width/2) - (y - rect.top)) / (canvas.width / 2);
 
     g_points.push({x, y});
+    // 这里与书中不同，这里用随机函数去取颜色
     g_colors.push(colors[getRndInteger(1, 3)])
 
     gl.clearColor(0.0, 0.0, 0.0, 1.0);

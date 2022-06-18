@@ -218,5 +218,6 @@ gl.vertexAttrib3f(a_Position, 0.5, 0.5, 0.0);
 
 通过前面的综合练习，在有js基础的前提下，对剩余部分的内容已经有一定把握了，直接弄一个综合性的练习，不懂的地方再查书
 
+[示例代码,comprehensive_exercises.html](./src/comprehensive_exercises.html)
 
 
