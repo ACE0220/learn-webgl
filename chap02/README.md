@@ -221,3 +221,7 @@ gl.vertexAttrib3f(a_Position, 0.5, 0.5, 0.0);
 [示例代码,comprehensive_exercises.html](./src/comprehensive_exercises.html)
 
 
+## **总结**
+
+初步入门画线和点，了解顶点和片元着色器，利用着色器的规则去更改位置，背景，颜色等。
+了解了js是怎么传输数据给着色器。
