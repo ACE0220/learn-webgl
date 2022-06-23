@@ -55,7 +55,7 @@ https://www.zhihu.com/people/cheng-feng-28-76/posts
 
 [第二章 WebGL入门](./chap02/README.md)
 
-第三章 绘制与变化三角形
+[第三章 绘制与变化三角形](./chap03/README.md)
 
 第四章 高级变换与动画基础
 
