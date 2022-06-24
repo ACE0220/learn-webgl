@@ -73,7 +73,7 @@ function initVertexBuffer(gl) {
 
     var vextexBuffer = gl.createBuffer();
     if(!vextexBuffer) {
-        return;
+        return -1;
     }
     gl.bindBuffer(gl.ARRAY_BUFFER, vextexBuffer);
     gl.bufferData(gl.ARRAY_BUFFER, vertices, gl.STATIC_DRAW);
