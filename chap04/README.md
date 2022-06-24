@@ -47,6 +47,8 @@
 
 **示例程序（RotatedTriangle_Matrix4.js）**
 
+[示例代码：RotatedTriangle_Matrix4.js](./src/RotatedTriangle_Matrix4.js)
+
 旧的创建方式，我们要自己去编写变换矩阵，位于代码的29～40行，和52行
 
 新的创建方式，使用书中提供的Matrix库，位于代码的42～46行，和54行
