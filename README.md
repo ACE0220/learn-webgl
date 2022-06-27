@@ -57,7 +57,7 @@ https://www.zhihu.com/people/cheng-feng-28-76/posts
 
 [第三章 绘制与变化三角形](./chap03/README.md)
 
-第四章 高级变换与动画基础
+[第四章 高级变换与动画基础](./chap04/README.md)
 
 第五章 颜色与纹理
 
